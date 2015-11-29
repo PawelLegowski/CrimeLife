@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CrimeLife</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_menu_map">MenuMap</string>
+    <string name="title_activity_menu_options">MenuOptions</string>
+    <string name="title_activity_menu_store">MenuStore</string>
+    <string name="title_activity_menu_credits">MenuCredits</string>
+</resources>
